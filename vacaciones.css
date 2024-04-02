@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{ background-image: url(./imagenes/cielo.jfif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;}
+
+.caja1{ justify-content: center;
+align-items: center;
+text-align: center;}
+
+.cajamedio{ display: flex;
+margin-top: 5%;
+justify-content: center;
+justify-content: space-between;
+margin-bottom: 5%;}sssaaz
